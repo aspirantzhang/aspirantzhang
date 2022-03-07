@@ -5,7 +5,7 @@ Hi, I'm Aspirant Zhang (张立志), a web developer from China.
 - I focus on using the PHP language
 - And have some interest and weak understanding of MySQL, Linux, Docker, Web server and Cloud Computing
 - My ambition is to use network technology to improve the efficiency of human life
-- I hate people who cover everything with politics
+- I don't think coding has anything to do with politics, code should not be tainted by politics. So I refuse to use any product with political preferences. (e.g. notepad++ and  phpbench)
 - I'm learning from everyone who shares, and learning to share with everyone
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aspirantzhang" />
