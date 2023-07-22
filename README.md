@@ -1,12 +1,13 @@
 Hi, I'm Aspirant Zhang (张立志), a web developer from China.
 
-- I’m currently working on [Octopus](https://github.com/aspirantzhang/octopus), a CMS for building small websites
-- I’m currently learning React and Typescript
-- I focus on using the PHP language
-- And have some interest and weak understanding of MySQL, Linux, Docker, Web server and Cloud Computing
-- My ambition is to use network technology to improve the efficiency of human life
-- I don't think coding has anything to do with politics, code should not be tainted by politics. So I refuse to use any product with political preferences. (e.g. notepad++ and  phpbench)
-- I'm learning from everyone who shares, and learning to share with everyone
+- Coding is writing the story of life.
+- My dream is to use computer technology to build a better world.
+- My current focus at work is on building systems to drive enterprise digitalization.
+- As a programmer, I lean towards back-end development and currently focus on PHP.
+- I have some experience with React and Typescript and am currently learning Java.
+- I care more about code quality, application architecture and design patterns.
+- Outside of work, I'm interested in cloud computing and network security.
+- I'm learning from everyone who shares, and learning to share with everyone.
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aspirantzhang" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspirantzhang&layout=compact&langs_count=8" />
